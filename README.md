@@ -33,6 +33,8 @@ Estrutura do Projeto
     
 Imagem do Produto
  ![WhatsApp Image 2024-05-29 at 15 53 10](https://github.com/AntonioPaess/Ourinho-Projeto-1/assets/123177984/c7c48756-b7ef-4ee6-a8fe-f5c8206bc608)
+ ![WhatsApp Image 2024-06-06 at 18 22 34](https://github.com/AntonioPaess/Ourinho-Projeto-1/assets/123177984/cccf9985-f44d-4d80-85d9-715798e291e4)
+
 
 
 Resumo do Manual de Uso (Protótipo)
