@@ -1,30 +1,40 @@
-#Projeto Controle Modular - Ourinho -  para Deficientes Físicos.
+Projeto Controle Modular - Ourinho -  para Deficientes Físicos.
 
-##Descrição do Projeto
+Descrição do Projeto
 
-  Este projeto foi desenvolvido para a cadeira de Projetos 1 da CESAR School, cujo tema foi "Educação e Tecnologia". O objetivo do projeto era criar um artefato físico utilizando Arduino, dentro de trilhas específicas. Nossa equipe escolheu focar na deficiência física, desenvolvendo um controle modular para auxiliar na inclusão de alunos com deficiências físicas no ambiente escolar.
+Este projeto foi desenvolvido para a cadeira de Projetos 1 da CESAR School, cujo tema foi "Educação e Tecnologia".
+O objetivo do projeto era criar um artefato físico utilizando Arduino, dentro de trilhas específicas. 
+Nossa equipe escolheu focar na deficiência física, desenvolvendo um controle modular para auxiliar na inclusão de alunos com 
+deficiências físicas no ambiente escolar.
 
-##Objetivo
+Objetivo
 
-    O projeto visa trazer elementos lúdicos para as escolas, incentivando a permanência e a interação de alunos com deficiências físicas. Nosso diferencial é a adaptabilidade do controle, que é totalmente modular e pode ser configurado conforme as necessidades específicas de cada usuário.
+    O projeto visa trazer elementos lúdicos para as escolas, 
+    incentivando a permanência e a interação de alunos com deficiências físicas. 
+    Nosso diferencial é a adaptabilidade do controle,
+    que é totalmente modular e pode ser configurado conforme as 
+    necessidades específicas de cada usuário.
 
-##Diferencial no Mercado
+Diferencial no Mercado
 
-    O grande diferencial do nosso produto em comparação com as soluções existentes no mercado é a sua capacidade de adaptação. Por ser um controle modular, ele pode ser facilmente configurado para atender às diversas necessidades dos usuários com deficiências físicas. Isso permite uma personalização sem precedentes, promovendo uma inclusão mais efetiva e personalizada.
+    O grande diferencial do nosso produto em comparação com as soluções 
+    existentes no mercado é a sua capacidade de adaptação. Por ser um controle modular, 
+    ele pode ser facilmente configurado para atender às diversas necessidades dos usuários com deficiências físicas. 
+    Isso permite uma personalização sem precedentes, promovendo uma inclusão mais efetiva e personalizada.
 
-##Estrutura do Projeto
+Estrutura do Projeto
 
-  ###Componentes Utilizados
+  Componentes Utilizados
   
       Botões Arcade: Fáceis de pressionar, ideais para pessoas com mobilidade reduzida.
       Estrutura de MDF: Leve e fácil de montar, ideal para prototipagem.
       Arduino Leonardo: Microcontrolador que interpreta os comandos dos botões e os envia para o computador.
       Cabo USB: Para conexão ao computador.
     
-##Imagem do Produto
+Imagem do Produto
  "C:\Users\anton\Downloads\WhatsApp Image 2024-05-29 at 15.53.10.jpeg"
 
-##Resumo do Manual de Uso (Protótipo)
+Resumo do Manual de Uso (Protótipo)
 
     Montagem do Controle Modular
     Configuração da Estrutura de MDF
@@ -51,18 +61,22 @@
     Botão B (d): Pressione para enviar o comando 'd' ao computador.
     Botão C (s): Pressione para enviar o comando 's' ao computador.
     Botão D (a): Pressione para enviar o comando 'a' ao computador.
+    
     Joystick:
+    
     Movimento para Direita: Mova o joystick para a direita para enviar o comando da seta direita.
     Movimento para Esquerda: Mova o joystick para a esquerda para enviar o comando da seta esquerda.
     Movimento para Cima: Mova o joystick para cima para enviar o comando da seta para cima.
     Movimento para Baixo: Mova o joystick para baixo para enviar o comando da seta para baixo.
+    
     Manutenção e Solução de Problemas
+    
     Verifique as Conexões: Periodicamente, verifique se todos os cabos estão firmemente conectados.
     Limpeza: Mantenha os botões arcade limpos e livres de poeira.
     Botões Não Respondem: Verifique se os cabos estão corretamente conectados.
     Comandos Errados: Certifique-se de que o código no Arduino está corretamente ajustado.
 
-##Competências Necessárias para a Realização do Projeto
+Competências Necessárias para a Realização do Projeto
 
     Para o desenvolvimento deste projeto, foram necessárias diversas competências técnicas e habilidades de trabalho em equipe:
 
@@ -94,6 +108,9 @@
     
     Software Integrado: Desenvolvimento de um software integrado para fácil configuração e personalização dos comandos dos botões.
     
-##Conclusão
+Conclusão
 
-    Este controle modular oferece flexibilidade e acessibilidade para pessoas com deficiências físicas, permitindo uma interação mais fácil com computadores. A modularidade do design e a futura integração de tecnologias avançadas garantem que o produto final será ainda mais adaptável e conveniente, promovendo uma inclusão mais efetiva e personalizada.
+    Este controle modular oferece flexibilidade e acessibilidade para pessoas com deficiências físicas, 
+    permitindo uma interação mais fácil com computadores. A modularidade do design e a futura integração de tecnologias 
+    avançadas garantem que o produto final será ainda mais adaptável e conveniente, 
+    promovendo uma inclusão mais efetiva e personalizada.
