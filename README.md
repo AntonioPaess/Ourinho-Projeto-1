@@ -32,7 +32,8 @@ Estrutura do Projeto
       Cabo USB: Para conexão ao computador.
     
 Imagem do Produto
- "C:\Users\anton\Downloads\WhatsApp Image 2024-05-29 at 15.53.10.jpeg"
+ ![WhatsApp Image 2024-05-29 at 15 53 10](https://github.com/AntonioPaess/Ourinho-Projeto-1/assets/123177984/c7c48756-b7ef-4ee6-a8fe-f5c8206bc608)
+
 
 Resumo do Manual de Uso (Protótipo)
 
