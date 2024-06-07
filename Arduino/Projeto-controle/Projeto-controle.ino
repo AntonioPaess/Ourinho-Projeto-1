@@ -49,10 +49,8 @@ void loop() {
   if (buttonStateB != previousButtonStateB) {
     if (buttonStateB == LOW) {
       Keyboard.press('w');
-      Serial.println("Button B pressed, 'w' sent");
     } else {
       Keyboard.release('w');
-      Serial.println("Button B released, 'w' stopped");
     }
     previousButtonStateB = buttonStateB;
   }
@@ -61,10 +59,8 @@ void loop() {
   if (buttonStateC != previousButtonStateC) {
     if (buttonStateC == LOW) {
       Keyboard.press('d');
-      Serial.println("Button C pressed, 'd' sent");
     } else {
       Keyboard.release('d');
-      Serial.println("Button C released, 'd' stopped");
     }
     previousButtonStateC = buttonStateC;
   }
@@ -73,10 +69,8 @@ void loop() {
   if (buttonStateD != previousButtonStateD) {
     if (buttonStateD == LOW) {
       Keyboard.press('s');
-      Serial.println("Button D pressed, 's' sent");
     } else {
       Keyboard.release('s');
-      Serial.println("Button D released, 's' stopped");
     }
     previousButtonStateD = buttonStateD;
   }
@@ -85,10 +79,8 @@ void loop() {
   if (buttonStateE != previousButtonStateE) {
     if (buttonStateE == LOW) {
       Keyboard.press('a');
-      Serial.println("Button E pressed, 'a' sent");
     } else {
       Keyboard.release('a');
-      Serial.println("Button E released, 'a' stopped");
     }
     previousButtonStateE = buttonStateE;
   }
